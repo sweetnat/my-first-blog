@@ -1,18 +1,18 @@
 h1 a {
-    color: #531EA8;
     font-family: 'Lobster';
+    color:blue;
 }
 body {
     padding-left: 15px;
 }
 .page-header {
-    background-color: #54c3e8;
+    background-image: url("../images/flags.jpg");
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #ffffff;
+    color: cadetblue;
     font-size: 36pt;
     text-decoration: none;
 }
@@ -53,3 +53,15 @@ h1, h2, h3, h4 {
     color: #000000;
 }
 
+.row{
+  background-color:papayaWhip;
+   width:97%;
+}
+
+.container{
+width: 100%
+}
+
+.titre_post{
+   color:blue;
+}
